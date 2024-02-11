@@ -30,8 +30,7 @@ function delayedMessage(delay, message) {
     });
 }
 
-// Usage example:
-const delay = 2000; // 2 seconds
+const delay = 2000; 
 const message = "Hello, world!";
 
 delayedMessage(delay, message)
@@ -41,3 +40,5 @@ delayedMessage(delay, message)
     .catch((error) => {
         console.error("Error:", error);
     });
+
+    // No reply from this company BSDP 
